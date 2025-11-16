@@ -109,6 +109,7 @@ The dashboard enables business stakeholders to evaluate **high-performing outlet
 
 Blinkit-Outlet-Performance-Dashboard-PowerBI/
 │
+├──README.md
 ├── data/
 │ └── BlinkIT Grocery Data.xlsx
 │
@@ -119,8 +120,8 @@ Blinkit-Outlet-Performance-Dashboard-PowerBI/
 │ └── blinkit-outlet-performance-dashboard.pbix
 │
 ├── .gitignore
-├── LICENSE
-└── README.md
+└──LICENSE
+
 
 
 ---
