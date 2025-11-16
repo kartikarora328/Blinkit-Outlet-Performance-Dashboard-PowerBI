@@ -1,0 +1,21 @@
+# Ignore temporary Power BI files
+*.tmp
+*.bak
+*.pbip
+*.pbit
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Power BI autosaves
+*.bak.pbix
+
+# Ignore logs
+*.log
+
+# Ignore temporary folders
+~$*
